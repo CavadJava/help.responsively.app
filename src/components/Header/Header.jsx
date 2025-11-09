@@ -1,5 +1,3 @@
-import Dropdown from "./Dropdown.jsx";
-
 function Header() {
     const headerArrays = [
         {id:1, name: "Features", href: "#", active: true},
